@@ -1,2 +1,2 @@
 # aidebug
-aidebug，参考网站debug.mcapple.top
+由Tianliqi开发的AI调代码工具
